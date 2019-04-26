@@ -1,5 +1,5 @@
 {
-    "name": "monsido/monsido",
+    "name": "bloolight/monsido-wp-plugin",
     "description": "Append possible page urls to site html head tag",
     "type": "wordpress-plugin",
     "minimum-stability": "dev",
