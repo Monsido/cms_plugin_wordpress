@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Append possible page urls to site html head tag",
     "type": "wordpress-plugin",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {}
 }
